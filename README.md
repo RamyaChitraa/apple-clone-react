@@ -56,6 +56,4 @@ npm run dev
 
 Your project will start at 👉 http://localhost:5173/
 
-🌐 Live Demo
-
-👉 [Add your Vercel / Netlify live link here]
+🌐 Live Demo : https://apple-clone-react-omega.vercel.app/
